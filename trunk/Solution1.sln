@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL\BLL.csproj", "{D8270FF2-18F7-47E8-BC18-C184D92AA818}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model\Model.csproj", "{7CA7933D-2892-4321-9CF3-62323BCE1FC1}"
-EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E:\...\webapp\", "webapp\", "{AB53864B-C681-4EDF-A591-8018D2EF2499}"
 	ProjectSection(WebsiteProperties) = preProject
 		Debug.AspNetCompiler.VirtualPath = "/webapp"
@@ -35,26 +31,6 @@ Global
 		Release|Mixed Platforms = Release|Mixed Platforms
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Debug|.NET.ActiveCfg = Debug|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Release|.NET.ActiveCfg = Release|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{D8270FF2-18F7-47E8-BC18-C184D92AA818}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Debug|.NET.ActiveCfg = Debug|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|.NET.ActiveCfg = Release|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|.NET.ActiveCfg = Debug|.NET
 		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|.NET.Build.0 = Debug|.NET
 		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|Any CPU.ActiveCfg = Debug|.NET
