@@ -5,6 +5,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL\BLL.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model\Model.csproj", "{7CA7933D-2892-4321-9CF3-62323BCE1FC1}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E:\...\webapp\", "webapp\", "{AB53864B-C681-4EDF-A591-8018D2EF2499}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/webapp"
+		Debug.AspNetCompiler.PhysicalPath = "webapp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\webapp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/webapp"
+		Release.AspNetCompiler.PhysicalPath = "webapp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\webapp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2558"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
@@ -35,6 +55,16 @@ Global
 		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7CA7933D-2892-4321-9CF3-62323BCE1FC1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|.NET.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|.NET.Build.0 = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Release|.NET.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Release|.NET.Build.0 = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{AB53864B-C681-4EDF-A591-8018D2EF2499}.Release|Mixed Platforms.Build.0 = Debug|.NET
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
